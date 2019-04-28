@@ -99,7 +99,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.numericUpDown2.Location = new System.Drawing.Point(184, 110);
             this.numericUpDown2.Maximum = new decimal(new int[] {
-            10000,
+            1000000,
             0,
             0,
             0});
